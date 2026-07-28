@@ -149,10 +149,8 @@
     <ClCompile Include="source\VBO.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="green.frag" />
     <None Include="default.frag" />
     <None Include="default.vert" />
-    <None Include="red.frag" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\EBO.h" />
