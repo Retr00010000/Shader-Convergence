@@ -1,0 +1,10 @@
+﻿  Application.cpp
+Application.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+Application.obj : error LNK2001: unresolved external symbol _glfwTerminate
+Application.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+Application.obj : error LNK2001: unresolved external symbol _glfwInit
+Application.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+Application.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+Application.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+Application.obj : error LNK2001: unresolved external symbol __imp__glewInit@0
+C:\Users\EL3ATTY\OneDrive\Desktop\OpenGL\OpenGL\Release\OpenGL.exe : fatal error LNK1120: 8 unresolved externals
