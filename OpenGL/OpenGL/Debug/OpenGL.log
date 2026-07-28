@@ -1,9 +1,0 @@
-﻿  Application.cpp
-  EBO.cpp
-  ShaderClass.cpp
-C:\Users\EL3ATTY\OneDrive\Desktop\OpenGL\OpenGL\source\ShaderClass.cpp(10,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
-  VAO.cpp
-  VBO.cpp
-  Generating Code...
-  glad.c
-  OpenGL.vcxproj -> C:\Users\EL3ATTY\OneDrive\Desktop\OpenGL\OpenGL\Debug\OpenGL.exe
